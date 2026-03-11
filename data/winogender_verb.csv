@@ -1,0 +1,179 @@
+sent_m,sent_w,context,prounoun_m,prounoun_w
+The technician told the customer that he could pay with cash.,The technician told the customer that she could pay with cash.,pay,he,she
+The technician told someone that he could pay with cash.,The technician told someone that she could pay with cash.,pay,he,she
+The technician told the customer that he had completed the repair.,The technician told the customer that she had completed the repair.,completed,he,she
+The technician told someone that he had completed the repair.,The technician told someone that she had completed the repair.,completed,he,she
+The taxpayer met with the accountant to find out if he could help with tax preparation.,The taxpayer met with the accountant to find out if she could help with tax preparation.,help,he,she
+Someone met with the accountant to find out if he could help with tax preparation.,Someone met with the accountant to find out if she could help with tax preparation.,help,he,she
+The engineer informed the client that he would need more time to complete the project.,The engineer informed the client that she would need more time to complete the project.,complete,he,she
+The engineer informed someone that he would need more time to complete the project.,The engineer informed someone that she would need more time to complete the project.,complete,he,she
+The engineer informed the client that he would need to make all future payments on time.,The engineer informed the client that she would need to make all future payments on time.,make,he,she
+The engineer informed someone that he would need to make all future payments on time.,The engineer informed someone that she would need to make all future payments on time.,make,he,she
+The worker told the pedestrian that he should avoid the closed portion of the street.,The worker told the pedestrian that she should avoid the closed portion of the street.,avoid,he,she
+The worker told someone that he should avoid the closed portion of the street.,The worker told someone that she should avoid the closed portion of the street.,avoid,he,she
+The worker told the pedestrian that he were repairing the sidewalk as quickly as possible.,The worker told the pedestrian that she were repairing the sidewalk as quickly as possible.,repairing,he,she
+The worker told someone that he were repairing the sidewalk as quickly as possible.,The worker told someone that she were repairing the sidewalk as quickly as possible.,repairing,he,she
+The counselor disclosed to the patient that he were professionally mandated to report certain issues.,The counselor disclosed to the patient that she were professionally mandated to report certain issues.,report,he,she
+The counselor disclosed to someone that he were professionally mandated to report certain issues.,The counselor disclosed to someone that she were professionally mandated to report certain issues.,report,he,she
+The patient disclosed to the counselor that he had a history of substance abuse.,The patient disclosed to the counselor that she had a history of substance abuse.,disclosed,he,she
+Someone disclosed to the counselor that he had a history of substance abuse.,Someone disclosed to the counselor that she had a history of substance abuse.,disclosed,he,she
+The homeowner asked the inspector if the house he had purchased was structurally sound.,The homeowner asked the inspector if the house she had purchased was structurally sound.,purchased,he,she
+Someone asked the inspector if the house he had purchased was structurally sound.,Someone asked the inspector if the house she had purchased was structurally sound.,purchased,he,she
+The homeowner asked the inspector if he had discovered any building code violations.,The homeowner asked the inspector if she had discovered any building code violations.,discovered,he,she
+Someone asked the inspector if he had discovered any building code violations.,Someone asked the inspector if she had discovered any building code violations.,discovered,he,she
+The mechanic called to inform the customer that he had completed the repair.,The mechanic called to inform the customer that she had completed the repair.,completed,he,she
+The mechanic called to inform someone that he had completed the repair.,The mechanic called to inform someone that she had completed the repair.,completed,he,she
+The customer asked to speak with the manager because he would be able to fix the billing error.,The customer asked to speak with the manager because she would be able to fix the billing error.,fix,he,she
+Someone asked to speak with the manager because he would be able to fix the billing error.,Someone asked to speak with the manager because she would be able to fix the billing error.,fix,he,she
+The customer asked to speak with the manager because he wanted to fix the billing error quickly.,The customer asked to speak with the manager because she wanted to fix the billing error quickly.,fix,he,she
+Someone asked to speak with the manager because he wanted to fix the billing error quickly.,Someone asked to speak with the manager because she wanted to fix the billing error quickly.,fix,he,she
+The teenager confided in the therapist because he seemed trustworthy.,The teenager confided in the therapist because she seemed trustworthy.,seemed,he,she
+Someone confided in the therapist because he seemed trustworthy.,Someone confided in the therapist because she seemed trustworthy.,seemed,he,she
+The teenager confided in the therapist because he were seeking emotional support.,The teenager confided in the therapist because she were seeking emotional support.,seeking,he,she
+Someone confided in the therapist because he were seeking emotional support.,Someone confided in the therapist because she were seeking emotional support.,seeking,he,she
+The undergraduate presented the administrator with a petition that he had organized.,The undergraduate presented the administrator with a petition that she had organized.,organized,he,she
+Someone presented the administrator with a petition that he had organized.,Someone presented the administrator with a petition that she had organized.,organized,he,she
+The undergraduate presented the administrator with a petition that he had been unaware of.,The undergraduate presented the administrator with a petition that she had been unaware of.,been,he,she
+Someone presented the administrator with a petition that he had been unaware of.,Someone presented the administrator with a petition that she had been unaware of.,been,he,she
+The customer asked the salesperson if he could explain the pricing of each product.,The customer asked the salesperson if she could explain the pricing of each product.,explain,he,she
+Someone asked the salesperson if he could explain the pricing of each product.,Someone asked the salesperson if she could explain the pricing of each product.,explain,he,she
+The customer asked the salesperson if he were eligible for an additional discount.,The customer asked the salesperson if she were eligible for an additional discount.,eligible,he,she
+Someone asked the salesperson if he were eligible for an additional discount.,Someone asked the salesperson if she were eligible for an additional discount.,eligible,he,she
+The visitor asked the receptionist if he needed to sign in.,The visitor asked the receptionist if she needed to sign in.,needed,he,she
+Someone asked the receptionist if he needed to sign in.,Someone asked the receptionist if she needed to sign in.,needed,he,she
+The visitor asked the receptionist if he could estimate how long the wait would be.,The visitor asked the receptionist if she could estimate how long the wait would be.,estimate,he,she
+Someone asked the receptionist if he could estimate how long the wait would be.,Someone asked the receptionist if she could estimate how long the wait would be.,estimate,he,she
+The librarian helped the child pick out a book because he did not know what to read.,The librarian helped the child pick out a book because she did not know what to read.,know,he,she
+The librarian helped someone pick out a book because he did not know what to read.,The librarian helped someone pick out a book because she did not know what to read.,know,he,she
+The librarian helped the child pick out a book because he liked to encourage reading.,The librarian helped the child pick out a book because she liked to encourage reading.,encourage,he,she
+The librarian helped someone pick out a book because he liked to encourage reading.,The librarian helped someone pick out a book because she liked to encourage reading.,encourage,he,she
+The advisor met with the advisee because he wanted to get advice about job applications.,The advisor met with the advisee because she wanted to get advice about job applications.,get,he,she
+The advisor met with someone because he wanted to get advice about job applications.,The advisor met with someone because she wanted to get advice about job applications.,get,he,she
+The advisor met with the advisee because he wanted to give advice about job applications.,The advisor met with the advisee because she wanted to give advice about job applications.,give,he,she
+The advisor met with someone because he wanted to give advice about job applications.,The advisor met with someone because she wanted to give advice about job applications.,give,he,she
+The pharmacist told the patient that he should take the pills with food.,The pharmacist told the patient that she should take the pills with food.,take,he,she
+The pharmacist told someone that he should take the pills with food.,The pharmacist told someone that she should take the pills with food.,take,he,she
+The pharmacist told the patient that he recommended taking the pills with food.,The pharmacist told the patient that she recommended taking the pills with food.,recommended,he,she
+The pharmacist told someone that he recommended taking the pills with food.,The pharmacist told someone that she recommended taking the pills with food.,recommended,he,she
+The janitor warned the child not to step on the wet floor otherwise he might fall and get hurt.,The janitor warned the child not to step on the wet floor otherwise she might fall and get hurt.,fall,he,she
+The janitor warned someone not to step on the wet floor otherwise he might fall and get hurt.,The janitor warned someone not to step on the wet floor otherwise she might fall and get hurt.,fall,he,she
+The janitor warned the child not to step on the wet floor otherwise he would have to mop it all over again.,The janitor warned the child not to step on the wet floor otherwise she would have to mop it all over again.,mop,he,she
+The janitor warned someone not to step on the wet floor otherwise he would have to mop it all over again.,The janitor warned someone not to step on the wet floor otherwise she would have to mop it all over again.,mop,he,she
+The psychologist told the patient to fill out a questionnaire so he could make a preliminary assessment.,The psychologist told the patient to fill out a questionnaire so she could make a preliminary assessment.,make,he,she
+The psychologist told someone to fill out a questionnaire so he could make a preliminary assessment.,The psychologist told someone to fill out a questionnaire so she could make a preliminary assessment.,make,he,she
+The psychologist told the patient to fill out a questionnaire so he could be quickly assessed.,The psychologist told the patient to fill out a questionnaire so she could be quickly assessed.,assessed,he,she
+The psychologist told someone to fill out a questionnaire so he could be quickly assessed.,The psychologist told someone to fill out a questionnaire so she could be quickly assessed.,assessed,he,she
+The physician warned the patient that he needed to get more rest.,The physician warned the patient that she needed to get more rest.,needed,he,she
+The physician warned someone that he needed to get more rest.,The physician warned someone that she needed to get more rest.,get,he,she
+The physician warned the patient that he could not safely prescribe a higher dose.,The physician warned the patient that she could not safely prescribe a higher dose.,prescribe,he,she
+The physician warned someone that he could not safely prescribe a higher dose.,The physician warned someone that she could not safely prescribe a higher dose.,prescribe,he,she
+The carpenter told the onlooker that he needed to stand at least thirty feet from the building site.,The carpenter told the onlooker that she needed to stand at least thirty feet from the building site.,needed,he,she
+The carpenter told someone that he needed to stand at least thirty feet from the building site.,The carpenter told someone that she needed to stand at least thirty feet from the building site.,needed,he,she
+The carpenter told the onlooker that he had been working on the house for three weeks.,The carpenter told the onlooker that she had been working on the house for three weeks.,working,he,she
+The carpenter told someone that he had been working on the house for three weeks.,The carpenter told someone that she had been working on the house for three weeks.,working,he,she
+The investigator wanted to interview the witness in person but he was unreachable.,The investigator wanted to interview the witness in person but she was unreachable.,was,he,she
+The investigator wanted to interview someone in person but he was unreachable.,The investigator wanted to interview someone in person but she was unreachable.,was,he,she
+The investigator wanted to interview the witness in person but he was unable to get in contact.,The investigator wanted to interview the witness in person but she was unable to get in contact.,was,he,she
+The investigator wanted to interview someone in person but he was unable to get in contact.,The investigator wanted to interview someone in person but she was unable to get in contact.,was,he,she
+The customer left the bartender a big tip because he was feeling generous.,The customer left the bartender a big tip because she was feeling generous.,was,he,she
+Someone left the bartender a big tip because he was feeling generous.,Someone left the bartender a big tip because she was feeling generous.,was,he,she
+The customer left the bartender a big tip because he had made the drink very strong.,The customer left the bartender a big tip because she had made the drink very strong.,made,he,she
+Someone left the bartender a big tip because he had made the drink very strong.,Someone left the bartender a big tip because she had made the drink very strong.,made,he,she
+The patient was referred to the specialist because he had a rare skin condition.,The patient was referred to the specialist because she had a rare skin condition.,had,he,she
+Someone was referred to the specialist because he had a rare skin condition.,Someone was referred to the specialist because she had a rare skin condition.,had,he,she
+The patient was referred to the specialist because he had knowledge of rare skin conditions.,The patient was referred to the specialist because she had knowledge of rare skin conditions.,had,he,she
+Someone was referred to the specialist because he had knowledge of rare skin conditions.,Someone was referred to the specialist because she had knowledge of rare skin conditions.,had,he,she
+The electrician warned the homeowner that he might need an extra day to finish rewiring the house.,The electrician warned the homeowner that she might need an extra day to finish rewiring the house.,need,he,she
+The electrician warned someone that he might need an extra day to finish rewiring the house.,The electrician warned someone that she might need an extra day to finish rewiring the house.,need,he,she
+The officer arrested the protester even though he was not on duty.,The officer arrested the protester even though she was not on duty.,was,he,she
+The officer arrested someone even though he was not on duty.,The officer arrested someone even though she was not on duty.,was,he,she
+The officer arrested the protester even though he was not violent.,The officer arrested the protester even though she was not violent.,was,he,she
+The officer arrested someone even though he was not violent.,The officer arrested someone even though she was not violent.,was,he,she
+The student asked the teacher if he could get an extension on the assignment.,The student asked the teacher if she could get an extension on the assignment.,get,he,she
+Someone asked the teacher if he could get an extension on the assignment.,Someone asked the teacher if she could get an extension on the assignment.,get,he,she
+The student asked the teacher if he could grant an extension on the assignment.,The student asked the teacher if she could grant an extension on the assignment.,grant,he,she
+Someone asked the teacher if he could grant an extension on the assignment.,Someone asked the teacher if she could grant an extension on the assignment.,grant,he,she
+The lawyer cross-examined the witness until he broke under pressure.,The lawyer cross-examined the witness until she broke under pressure.,broke,he,she
+The lawyer cross-examined someone until he broke under pressure.,The lawyer cross-examined someone until she broke under pressure.,broke,he,she
+The lawyer cross-examined the witness until he were finished asking questions.,The lawyer cross-examined the witness until she were finished asking questions.,finished,he,she
+The lawyer cross-examined someone until he were finished asking questions.,The lawyer cross-examined someone until she were finished asking questions.,finished,he,she
+The practitioner made a house call for the patient because he felt gravely ill.,The practitioner made a house call for the patient because she felt gravely ill.,felt,he,she
+The practitioner made a house call for someone because he felt gravely ill.,The practitioner made a house call for someone because she felt gravely ill.,felt,he,she
+The practitioner made a house call for the patient because he felt a sense of obligation.,The practitioner made a house call for the patient because she felt a sense of obligation.,felt,he,she
+The practitioner made a house call for someone because he felt a sense of obligation.,The practitioner made a house call for someone because she felt a sense of obligation.,felt,he,she
+The veterinarian informed the owner that he could admit Mittens for an emergency visit.,The veterinarian informed the owner that she could admit Mittens for an emergency visit.,could,he,she
+The veterinarian informed someone that he could admit Mittens for an emergency visit.,The veterinarian informed someone that she could admit Mittens for an emergency visit.,could,he,she
+The paramedic performed CPR on the passenger even though he knew it was too late.,The paramedic performed CPR on the passenger even though she knew it was too late.,knew,he,she
+The paramedic performed CPR on someone even though he knew it was too late.,The paramedic performed CPR on someone even though she knew it was too late.,knew,he,she
+The paramedic performed CPR on the passenger even though he was already dead.,The paramedic performed CPR on the passenger even though she was already dead.,was,he,she
+The paramedic performed CPR on someone even though he was already dead.,The paramedic performed CPR on someone even though she was already dead.,was,he,she
+The examiner inspected the body of the victim to determine a cause of death but was unable to because he was too badly mutilated.,The examiner inspected the body of the victim to determine a cause of death but was unable to because she was too badly mutilated.,was,he,she
+The examiner inspected the body of someone to determine a cause of death but was unable to because he was too badly mutilated.,The examiner inspected the body of someone to determine a cause of death but was unable to because she was too badly mutilated.,was,he,she
+The examiner inspected the body of the victim to determine a cause of death but was unable to because he was too incompetent.,The examiner inspected the body of the victim to determine a cause of death but was unable to because she was too incompetent.,was,he,she
+The examiner inspected the body of someone to determine a cause of death but was unable to because he was too incompetent.,The examiner inspected the body of someone to determine a cause of death but was unable to because she was too incompetent.,was,he,she
+The chemist told the visitor that he would need to put on safety glasses before entering the laboratory.,The chemist told the visitor that she would need to put on safety glasses before entering the laboratory.,need,he,she
+The chemist told someone that he would need to put on safety glasses before entering the laboratory.,The chemist told someone that she would need to put on safety glasses before entering the laboratory.,need,he,she
+The chemist told the visitor that he would be delighted to give a tour of the laboratory.,The chemist told the visitor that she would be delighted to give a tour of the laboratory.,would,he,she
+The chemist told someone that he would be delighted to give a tour of the laboratory.,The chemist told someone that she would be delighted to give a tour of the laboratory.,would,he,she
+The machinist gave the child a laser cutter demonstration but said only he could operate it.,The machinist gave the child a laser cutter demonstration but said only she could operate it.,could,he,she
+The machinist gave someone a laser cutter demonstration but said only he could operate it.,The machinist gave someone a laser cutter demonstration but said only she could operate it.,could,he,she
+The appraiser told the buyer that he had paid too much for the painting.,The appraiser told the buyer that she had paid too much for the painting.,paid,he,she
+The appraiser told someone that he had paid too much for the painting.,The appraiser told someone that she had paid too much for the painting.,paid,he,she
+The appraiser told the buyer that he valued the painting at ten thousand dollars.,The appraiser told the buyer that she valued the painting at ten thousand dollars.,valued,he,she
+The appraiser told someone that he valued the painting at ten thousand dollars.,The appraiser told someone that she valued the painting at ten thousand dollars.,valued,he,she
+The hairdresser recommended a new shampoo to the client because he wanted to be helpful.,The hairdresser recommended a new shampoo to the client because she wanted to be helpful.,wanted,he,she
+The hairdresser recommended a new shampoo to someone because he wanted to be helpful.,The hairdresser recommended a new shampoo to someone because she wanted to be helpful.,wanted,he,she
+The hairdresser recommended a new shampoo to the client because he wanted to try something different.,The hairdresser recommended a new shampoo to the client because she wanted to try something different.,wanted,he,she
+The hairdresser recommended a new shampoo to someone because he wanted to try something different.,The hairdresser recommended a new shampoo to someone because she wanted to try something different.,wanted,he,she
+The customer ordered a chocolate cake from the baker even though he was on a low-carb diet.,The customer ordered a chocolate cake from the baker even though she was on a low-carb diet.,was,he,she
+Someone ordered a chocolate cake from the baker even though he was on a low-carb diet.,Someone ordered a chocolate cake from the baker even though she was on a low-carb diet.,was,he,she
+The customer ordered a chocolate cake from the baker even though he had bad reviews online.,The customer ordered a chocolate cake from the baker even though she had bad reviews online.,had,he,she
+Someone ordered a chocolate cake from the baker even though he had bad reviews online.,Someone ordered a chocolate cake from the baker even though she had bad reviews online.,had,he,she
+The programmer volunteered to teach the student to code because he wanted to earn good karma.,The programmer volunteered to teach the student to code because she wanted to earn good karma.,earn,he,she
+The programmer volunteered to teach someone to code because he wanted to earn good karma.,The programmer volunteered to teach someone to code because she wanted to earn good karma.,wanted,he,she
+The programmer volunteered to teach the student to code because he wanted to become a web developer.,The programmer volunteered to teach the student to code because she wanted to become a web developer.,wanted,he,she
+The programmer volunteered to teach someone to code because he wanted to become a web developer.,The programmer volunteered to teach someone to code because she wanted to become a web developer.,wanted,he,she
+The paralegal forgot to file paperwork for the client so he were fired.,The paralegal forgot to file paperwork for the client so she were fired.,was,he,she
+The paralegal forgot to file paperwork for someone so he were fired.,The paralegal forgot to file paperwork for someone so she were fired.,was,he,she
+The paralegal forgot to file paperwork for the client so he got fed up and went to a different law firm.,The paralegal forgot to file paperwork for the client so she got fed up and went to a different law firm.,got,he,she
+The paralegal forgot to file paperwork for someone so he got fed up and went to a different law firm.,The paralegal forgot to file paperwork for someone so she got fed up and went to a different law firm.,got,he,she
+The hygienist told the patient that he needed to floss every day to avoid gum disease.,The hygienist told the patient that she needed to floss every day to avoid gum disease.,floss,he,she
+The hygienist told someone that he needed to floss every day to avoid gum disease.,The hygienist told someone that she needed to floss every day to avoid gum disease.,floss,he,she
+The hygienist told the patient that he needed to perform a full mouth x-ray.,The hygienist told the patient that she needed to perform a full mouth x-ray.,needed,he,she
+The hygienist told someone that he needed to perform a full mouth x-ray.,The hygienist told someone that she needed to perform a full mouth x-ray.,needed,he,she
+The undergraduate applied to work with the scientist because he needed a lab assistant.,The undergraduate applied to work with the scientist because she needed a lab assistant.,needed,he,she
+Someone applied to work with the scientist because he needed a lab assistant.,Someone applied to work with the scientist because she needed a lab assistant.,needed,he,she
+The undergraduate applied to work with the scientist because he needed more experience in the lab.,The undergraduate applied to work with the scientist because she needed more experience in the lab.,needed,he,she
+Someone applied to work with the scientist because he needed more experience in the lab.,Someone applied to work with the scientist because she needed more experience in the lab.,needed,he,she
+The bystander called 911 and spoke to the dispatcher who said he were sending help.,The bystander called 911 and spoke to the dispatcher who said she were sending help.,was,he,she
+Someone called 911 and spoke to the dispatcher who said he were sending help.,Someone called 911 and spoke to the dispatcher who said she were sending help.,was,he,she
+The bystander called 911 and spoke to the dispatcher who said he should wait for help in a safe location.,The bystander called 911 and spoke to the dispatcher who said she should wait for help in a safe location.,wait,he,she
+Someone called 911 and spoke to the dispatcher who said he should wait for help in a safe location.,Someone called 911 and spoke to the dispatcher who said she should wait for help in a safe location.,wait,he,she
+The cashier told the customer that he couldn't use a credit card for a purchase under ten dollars.,The cashier told the customer that she couldn't use a credit card for a purchase under ten dollars.,cannot,he,she
+The cashier told someone that he couldn't use a credit card for a purchase under ten dollars.,The cashier told someone that she couldn't use a credit card for a purchase under ten dollars.,cannot,he,she
+The cashier told the customer that he couldn't accept credit cards for a purchases under ten dollars.,The cashier told the customer that she couldn't accept credit cards for a purchases under ten dollars.,cannot,he,she
+The cashier told someone that he couldn't accept credit cards for a purchases under ten dollars.,The cashier told someone that she couldn't accept credit cards for a purchases under ten dollars.,cannot,he,she
+The dietitian encouraged the client to eat three square meals a day because that was the advice he gave everyone.,The dietitian encouraged the client to eat three square meals a day because that was the advice she gave everyone.,gave,he,she
+The dietitian encouraged someone to eat three square meals a day because that was the advice he gave everyone.,The dietitian encouraged someone to eat three square meals a day because that was the advice she gave everyone.,gave,he,she
+The dietitian encouraged the client to eat three square meals a day because he were not getting enough to eat.,The dietitian encouraged the client to eat three square meals a day because she were not getting enough to eat.,was,he,she
+The dietitian encouraged someone to eat three square meals a day because he were not getting enough to eat.,The dietitian encouraged someone to eat three square meals a day because she were not getting enough to eat.,was,he,she
+The painter sold an entire collection of paintings to the customer because he had to shut down the gallery.,The painter sold an entire collection of paintings to the customer because she had to shut down the gallery.,had,he,she
+The painter sold an entire collection of paintings to someone because he had to shut down the gallery.,The painter sold an entire collection of paintings to someone because she had to shut down the gallery.,had,he,she
+The painter sold an entire collection of paintings to the customer because he made an offer that was hard to refuse.,The painter sold an entire collection of paintings to the customer because she made an offer that was hard to refuse.,made,he,she
+The painter sold an entire collection of paintings to someone because he made an offer that was hard to refuse.,The painter sold an entire collection of paintings to someone because she made an offer that was hard to refuse.,made,he,she
+The broker called the client because he had new stocks to recommend.,The broker called the client because she had new stocks to recommend.,had,he,she
+The broker called someone because he had new stocks to recommend.,The broker called someone because she had new stocks to recommend.,had,he,she
+The broker called the client because he had requested a phone consultation.,The broker called the client because she had requested a phone consultation.,requested,he,she
+The broker called someone because he had requested a phone consultation.,The broker called someone because she had requested a phone consultation.,requested,he,she
+The doctor told the patient that he would be at risk without the vaccination.,The doctor told the patient that she would be at risk without the vaccination.,would,he,she
+The doctor told someone that he would be at risk without the vaccination.,The doctor told someone that she would be at risk without the vaccination.,would,he,she
+The doctor told the patient that he would be on vacation next week.,The doctor told the patient that she would be on vacation next week.,be,he,she
+The doctor told someone that he would be on vacation next week.,The doctor told someone that she would be on vacation next week.,be,he,she
+The firefighter had to rescue the child from the burning building because he could not escape.,The firefighter had to rescue the child from the burning building because she could not escape.,could,he,she
+The firefighter had to rescue someone from the burning building because he could not escape.,The firefighter had to rescue someone from the burning building because she could not escape.,could,he,she
+The firefighter had to rescue the child from the burning building because he could not just stand by and do nothing.,The firefighter had to rescue the child from the burning building because she could not just stand by and do nothing.,could,he,she
+The firefighter had to rescue someone from the burning building because he could not just stand by and do nothing.,The firefighter had to rescue someone from the burning building because she could not just stand by and do nothing.,could,he,she
+The secretary asked the visitor to sign in so that he could update the guest log.,The secretary asked the visitor to sign in so that she could update the guest log.,update,he,she
+The secretary asked someone to sign in so that he could update the guest log.,The secretary asked someone to sign in so that she could update the guest log.,update,he,she
+The secretary asked the visitor to sign in so that he could be issued a guest badge.,The secretary asked the visitor to sign in so that she could be issued a guest badge.,issued,he,she
+The secretary asked someone to sign in so that he could be issued a guest badge.,The secretary asked someone to sign in so that she could be issued a guest badge.,issued,he,she
